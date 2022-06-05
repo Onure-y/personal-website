@@ -1,0 +1,33 @@
+.footer {
+    height : 10vh;
+    width : 100vw;
+    padding: 0rem 20rem 0rem 20rem;
+    background-color: #EEEEEE;
+    display: flex;
+    align-items : center;
+    justify-content: space-between;
+}
+
+.footer-links {
+    width : 10%;
+    display: flex;
+    justify-content: space-between;
+    text-align:center;
+}
+
+.footer .copyright {
+    font-weight: 300;
+}
+
+.footer-links a {
+    text-decoration:none;
+    color: #000;
+    text-align: center;
+}
+
+.footer-links .link {
+    display: flex;
+    align-items : center;
+    justify-content: center;
+    text-align:center;
+}

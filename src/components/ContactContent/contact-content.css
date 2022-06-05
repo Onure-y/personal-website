@@ -1,0 +1,25 @@
+.contact-content-container {
+  width: 100vw;
+  height: 50vh;
+  /* background-color: blue; */
+  padding: 0rem 20rem 0rem 20rem;
+  font-weight: 300;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.contact-links {
+  padding-top: 2rem;
+}
+
+.contact-link {
+  font-weight: bold;
+  margin-bottom: .5rem;
+}
+.contact-link a {
+  text-decoration: none;
+  color: #5d8bf4;
+  font-weight: 300;
+}

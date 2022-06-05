@@ -1,0 +1,25 @@
+.about-content-container {
+    width: 100vw;
+    height: 50vh;
+    /* background-color: blue; */
+    padding: 0rem 20rem 0rem 20rem;
+    font-weight: 300;
+    font-size : 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.about-content-container .about-content-1 {
+    margin-bottom: 2rem;
+}
+
+.about-content-1 span {
+    font-weight: bold;
+}
+.about-content-2 .about-links {
+    color : #5D8BF4;
+    text-decoration: none;
+}
+

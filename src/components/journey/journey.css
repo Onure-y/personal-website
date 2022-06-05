@@ -1,0 +1,26 @@
+.intern-p a {
+  color: #051367;
+  text-decoration: none;
+}
+
+.timeline-date {
+  color: red;
+}
+
+.timeline-element-tags {
+    margin-top: 1rem;
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.timeline-element-tag {
+    margin-right: .5rem;
+    background-color : #ddd;
+    border-radius: 1rem;
+    color: black;
+    padding: .7rem 1.5rem;
+    /* width: 20%; */
+    text-align: center;
+    font-weight: 300;
+}

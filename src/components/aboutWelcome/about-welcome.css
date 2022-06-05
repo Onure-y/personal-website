@@ -1,0 +1,15 @@
+.content-container {
+  width: 100vw;
+  height: 50vh;
+  background-image: linear-gradient(to right, #2d31fa, #5d8bf4);
+  padding: 0rem 20rem 0rem 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.content-container .title {
+  color: white;
+  font-size: 3rem;
+  font-weight: 600;
+}
